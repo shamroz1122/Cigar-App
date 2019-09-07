@@ -1,0 +1,11 @@
+
+How to use the app:
+
+1:Open the link for app e.g(https://------.com/dist).
+2:On the main menu you can see all your products.
+3:Now click on each product to slelect the quantity.
+4:After that click on calcluate to check total.
+5:Now click on proceed to add more products.
+6:Then click on this button to check sheet.
+7:Here you see all products with quanitiy.
+8:Fill the form with details and click the send bi
